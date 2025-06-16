@@ -44,8 +44,9 @@ This project is an AI-powered **Intelligent Timetable Scheduler** that uses **Co
 1. **Clone the Repository**  
    git clone https://github.com/yourusername/intelligent-timetable-scheduler.git
    cd intelligent-timetable-scheduler
+---
 
-##📧 Contact
+## 📧 Contact
 For queries or collaborations:
 
 Areej Suleman
