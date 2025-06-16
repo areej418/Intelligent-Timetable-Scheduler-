@@ -32,7 +32,6 @@ This project is an AI-powered **Intelligent Timetable Scheduler** that uses **Co
 ---
 
 ## 📂 Project Structure
-Intelligent Timetable Scheduler
 ├── Intelligent timetable for Uni(project).py  # Main Python script (CSP + GUI)
 
 ├── GUI preview.png   # Screenshot of the application
