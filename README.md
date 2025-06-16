@@ -33,8 +33,9 @@ This project is an AI-powered **Intelligent Timetable Scheduler** that uses **Co
 
 ## 📂 Project Structure
 Intelligent Timetable Scheduler
-├── Intelligent timetable for Uni(project).py # Main Python script (CSP + GUI)
-├── GUI preview.png # Screenshot of the application
+├── Intelligent timetable for Uni(project).py  # Main Python script (CSP + GUI)
+
+├── GUI preview.png   # Screenshot of the application
 
 
 ---
@@ -45,7 +46,7 @@ Intelligent Timetable Scheduler
    git clone https://github.com/yourusername/intelligent-timetable-scheduler.git
    cd intelligent-timetable-scheduler
 
-📧 Contact
+##📧 Contact
 For queries or collaborations:
 
 Areej Suleman
